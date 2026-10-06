@@ -1,0 +1,26 @@
+html {
+    font-size: 10px;
+    
+}
+
+#parent {
+    font-size: 20px;
+    width: 500px;
+    height: 300px;
+    background-color: black;
+    display: flex;
+}
+div>p{
+    color: white;
+}
+#child1 {
+    width: 10rem;
+    height: 10rem;
+    background-color: aqua;
+}
+
+#child2 {
+    width: 10em;
+    height: 10em;
+    background-color: red;
+}

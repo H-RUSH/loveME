@@ -16,3 +16,7 @@
 // };
 // console.log(himadry);
 // himadry.modi();
+// let sourish=[1,2,3,4,5,5];
+// console.log(sourish);
+// let array= new Array(`himadry`,1,3,4);
+// console.log(array);
