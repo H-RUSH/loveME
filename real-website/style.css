@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    height: 80px;
+    display: flex;
+    padding-left: 9px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
