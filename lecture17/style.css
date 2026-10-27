@@ -1,0 +1,8 @@
+div>span{
+   display: inline-block;
+   height: 100px;
+   border: 10px solid black;
+   width: auto;
+   padding: 5px;
+   
+}
