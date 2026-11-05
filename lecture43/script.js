@@ -19,3 +19,8 @@
 // else{
 //     window.alert(`getlost`);
 // }
+// function rinky(){
+//     console.log(`rinky pan khay`);
+// }
+// rinky();
+let rinky
