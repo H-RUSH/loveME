@@ -20,8 +20,12 @@
 // console.log(sourish);
 // let array= new Array(`himadry`,1,3,4);
 // console.log(array);
-let joy={
-    name : "himadry",
-    roll:129,
-}
-console.log(joy);
+// let joy={
+//     name : "himadry",
+//     roll:129,
+// }
+// console.log(joy);
+let array=[`jackson`, `russel`,`jonny`];
+console.log(array);
+array.push (`adlar`);
+console.log(array);
