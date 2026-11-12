@@ -14,4 +14,4 @@
 //         return "coding is my passion";
 //     }
 // }
-// let obj = new human();
+// let obj = new human();didnot do somtig which is not good btw 
